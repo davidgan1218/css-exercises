@@ -1,5 +1,5 @@
 .odd {
-  background-color: rgb(255, 167, 167);
+  background-color: #ff0000;
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -22,6 +22,6 @@
     duplicate code.
 */
 #four {
-  background-color: hsl(120, 100%, 75%);
+  background-color: hwb(120 50% 0%);
   font-weight: bold;
 }
